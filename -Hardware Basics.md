@@ -349,9 +349,11 @@ DRAM Cache (Optional): A tiny, ultra-fast memory helper used on high-end drives 
 
 2.5-inch: Matches the shape of standard laptop hard drives. It connects using separate data and power cables, usually running on the slower SATA protocol. 
 
-M.2: Looks like a small stick of chewing gum and plugs directly into the motherboard without cables. It comes in sizes like M.2 2280 (standard PCs) and M.2 2230 or M.2 2242 (handheld gaming devices), supporting ultra-fast NVMe speeds.
+M.2: Small form factor SSD thats plugs directly into the motherboard without cables. It comes in sizes like M.2 2280 (standard PCs) and M.2 2230 or M.2 2242 (handheld gaming devices), supporting ultra-fast NVMe speeds.
 
-mSATA: A smaller, bare-circuit board version of the SATA drive. It was built for older thin laptops and tablets before M.2 took over. 
+mSATA: A smaller, bare-circuit board version of the SATA drive. It was built for older thin laptops and tablets before M.2 took over. HAs a max bandwidth og 6Gbps.
+
+![M.2 SATA vs M.2 NVMe]({0CE7F687-6D95-4E93-A2E6-ED3C8F073D1A}.png)
 
 U.2 and U.3: Resembles a thicker 2.5-inch drive but uses PCIe connections. These are built for high-end servers and enterprise workstations. 
 
