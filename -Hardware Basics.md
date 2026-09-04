@@ -347,26 +347,154 @@ DRAM Cache (Optional): A tiny, ultra-fast memory helper used on high-end drives 
 
 # Main Types of SSDsBy Form Factor
 
-2.5-inch: Matches the shape of standard laptop hard drives. It connects using separate data and power cables, usually running on the slower SATA protocol. 
+**2.5-inch:** Matches the shape of standard laptop hard drives. It connects using separate data and power cables, usually running on the slower SATA protocol. 
 
-M.2: Small form factor SSD thats plugs directly into the motherboard without cables. It comes in sizes like M.2 2280 (standard PCs) and M.2 2230 or M.2 2242 (handheld gaming devices), supporting ultra-fast NVMe speeds.
+**M.2:** Small form factor SSD thats plugs directly into the motherboard without cables. It comes in sizes like M.2 2280 (standard PCs) and M.2 2230 or M.2 2242 (handheld gaming devices), supporting ultra-fast NVMe speeds.
 
-mSATA: A smaller, bare-circuit board version of the SATA drive. It was built for older thin laptops and tablets before M.2 took over. HAs a max bandwidth og 6Gbps.
+**mSATA:** A smaller, bare-circuit board version of the SATA drive. It was built for older thin laptops and tablets before M.2 took over. HAs a max bandwidth og 6Gbps.
 
 ![M.2 SATA vs M.2 NVMe]({0CE7F687-6D95-4E93-A2E6-ED3C8F073D1A}.png)
 
-U.2 and U.3: Resembles a thicker 2.5-inch drive but uses PCIe connections. These are built for high-end servers and enterprise workstations. 
+**U.2 and U.3:** Resembles a thicker 2.5-inch drive but uses PCIe connections. These are built for high-end servers and enterprise workstations. 
 
-Add-In Card (AIC):Resembles a graphics card and plugs into a standard PCIe slot on a desktop motherboard. Used for extreme performance or massive storage capacity.
+**Add-In Card (AIC):** Resembles a graphics card and plugs into a standard PCIe slot on a desktop motherboard. Used for extreme performance or massive storage capacity.
 
-EDSFF (Enterprise and Datacenter Standard Form Factor): Specialized "ruler-shaped" drives made for modern cloud servers. They optimize airflow and allow massive storage capacities in server racks. 
+**EDSFF (Enterprise and Datacenter Standard Form Factor):** Specialized "ruler-shaped" drives made for modern cloud servers. They optimize airflow and allow massive storage capacities in server racks. 
  
 # Flash Cell (NAND) Types
  
- SLC (Single-Level Cell): Stores 1 bit per cell; fastest and most durable, but very costly.
+ **SLC (Single-Level Cell):** Stores 1 bit per cell; fastest and most durable, but very costly.
  
- MLC (Multi-Level Cell): Stores 2 bits per cell; good mix of speed and cost.
+ **MLC (Multi-Level Cell):** Stores 2 bits per cell; good mix of speed and cost.
  
- TLC (Triple-Level Cell): Stores 3 bits per cell; common and affordable for daily use.
+ **TLC (Triple-Level Cell):** Stores 3 bits per cell; common and affordable for daily use.
  
- QLC (Quad-Level Cell): Stores 4 bits per cell; high capacity at a lower price, but slower.
+ **QLC (Quad-Level Cell):** Stores 4 bits per cell; high capacity at a lower price, but slower.
+
+ # Graphics Card
+
+Graphics card is a hardware which is used to increase the video memory of a comp
+uter, and make its display quality more high-definition.
+
+It makes the computer more powerful and gives it the capacity to do more high-leve
+I work. The quality of the image depends on the quality of the graphics card.
+
+It is very much important for gaming and video editing on a PC. Every game needs
+a graphics memory to start and it depends on the type of the game, and the require
+ments are mentioned on the game box.
+
+
+# Types of Graphics Card
+
+# 1. Integrated Graphics: 
+
+These are built directly into the processor, meaning they don't require a separate graphics card. They are commonly found in most laptops and are suitable for everyday tasks like browsing, office work, or media consumption. Since they share the system's memory (RAM), they cannot be upgraded or replaced.
+
+# 2.Discrete Graphics: 
+This refers to an external graphics card that is added to the motherboard as a sepa
+rate component. While basic tasks like file creation, office work, or media consumption don't require a discrete GPU, more demanding activities like high-resolution gaming, 3D rendering, or video editing benefit from the power of a discrete graphics card. These cards have their own dedicated memory
+and can be upgraded or replaced as needed.
+
+Intel Arc B580
+
+Radeon RX 9070 XT
+
+GeForce RTX 5090
+
+# How to choose a GPU?
+
+Video memory (VRAM) in a graphics card is crucial for handling graphics tasks, storing image data,
+textures, and frame buffers for faster access. More VRAM allows for better performance in high-resolution,
+detailed, and complex graphics.(8GB,16GB,24GB .. etc)
+
+GDDR (Graphics Double Data Rate) is the common type of VRAM used in modern cards. Versions like
+GDDR5 and GDDR6 offer faster speeds and higher bandwidth, with GDDR6 providing improved
+performance for demanding tasks like gaming and video editing.
+
+# Cooling System
+
+. Stoke Processor cooling
+
+. Air cooling
+
+. Liquid cooling - AIO,Custom
+
+. Water Cooling - AIO,Submerge/Immersion Cooling
+
+# SMPS
+
+SMPS stands for Switched-Mode Power Supply.
+
+SMPS - Switched Mode Power Supply.
+It's main task is to provide Power supply to all the components of the PC.
+
+It is an electronics device that is used to convert AC to DC, AC to AC, DC to DC and D
+C to AC voltages.
+The SMPS used in computers is of AC to DC type supply.
+
+# Power Supply Unit
+
+1. NON - MODULAR SMPS
+
+A non-modular PSU comes with all the cables that you
+will need for your build already installed and attached
+to the power supply.
+
+2. SEMI MODULAR SMPS
+
+Semi modular units have a few power cables
+that are permanently fused to the power
+supply while the remaining ones can be
+detached
+
+3. FULLY MODULAR SMPS
+
+Fully modular indicates that every power
+connector is detachable and removable.
+power supplies tend to have a full modular
+design High end
+
+
+# Cabinet
+
+A computer case, also known as a computer chassis, is the enclosure that contains most of the components of a personal computer (usually excluding the display, keyboard, and mou
+se).
+
+Types of Cabinet :
+
+. Full tower
+
+. Mid tower
+
+. Mini tower
+
+· SFF(Small form factor)
+
+
+# firmware
+
+BIOS/UEFI
+
+. BIOS and UEFI are forms of software that kickstart the hardware of your
+computer before your operating system loads.
+
+BIOS is a software stored on a small memory chip in the motherboard.
+It is used to start the computer system after it is turned on.
+
+Unified Extensible Firmware Interface (UEFI) is a specification for a software
+program that connects a computer's firmware to its operating system (OS). UEFI is
+expected to eventually replace BIOS(basic input/output system) but is compatible
+with it.
+
+
+# BIOS/UEFI
+
+Secure Boot helps to make sure that your PC boots using only firmware that is
+
+trusted by the manufacturer.
+
+CSM stands for Compatibility Support Module. It's an optional tool included in the UEFI
+firmware that allows legacy BIOS compatibility. CSM offers backward compatibility by
+
+booting the machine as if you were running a legacy BIOS system.
+
