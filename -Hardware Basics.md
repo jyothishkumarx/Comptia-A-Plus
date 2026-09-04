@@ -1,3 +1,5 @@
+<p align= "justify">
+
 # What is a Computer?
 
 * A computer is a programmable electronic device that accepts raw data as input and
@@ -494,7 +496,7 @@ Secure Boot helps to make sure that your PC boots using only firmware that is
 trusted by the manufacturer.
 
 CSM stands for Compatibility Support Module. It's an optional tool included in the UEFI
-firmware that allows legacy BIOS compatibility. CSM offers backward compatibility by
+firmware that allows legacy BIOS compatibility. CSM offers backward compatibility by booting the machine as if you were running a legacy BIOS system.
 
-booting the machine as if you were running a legacy BIOS system.
+</p>
 
